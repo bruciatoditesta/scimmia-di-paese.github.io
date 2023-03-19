@@ -1,17 +1,17 @@
 function rete_tipi(){
-    window.location = "../html/rete_tipi.html"
+    window.location = "html/rete_tipi.html"
 }
 
 function home(){
-    window.location = "../html/index.html"
+    window.location = "../index.html"
 }
 
 function rete_cavi(){
-    window.location = "../html/rete_cavi.html"
+    window.location = "html/rete_cavi.html"
 }
 function onde()
 {
-    window.location = "../html/onde.html"
+    window.location = "html/onde.html"
 }
 function back_cavi()
 {
